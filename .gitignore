@@ -1,0 +1,4 @@
+# Evita archivos y carpetas ocultos innecesarios.
+.DS_Store
+.prettierignore
+.vscode
