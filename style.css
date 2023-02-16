@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&display=swap');
+
+/*
+ * Usar un box-sizing model más intuitivo.
+*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+:root {
+  --ff-primary: "Asap", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--ff-primary);
+}
