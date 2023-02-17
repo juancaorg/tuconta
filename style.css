@@ -126,6 +126,7 @@ video {
 }
 
 .main__benefits--title {
+  margin: 0 1.5rem;
   font-weight: 700;
   font-size: 1.5rem;
 }
@@ -133,6 +134,8 @@ video {
 .main__benefits--list {
   margin-top: 1rem;
   margin-bottom: 2rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
   display: flex;
   flex-direction: column;
   row-gap: 1rem;
