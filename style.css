@@ -173,3 +173,9 @@ video {
   font-size: 1.25rem;
   text-transform: uppercase;
 }
+
+.main__info {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
