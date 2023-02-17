@@ -229,4 +229,14 @@ video {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .main__info {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+
+  .main__cta {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
 }
