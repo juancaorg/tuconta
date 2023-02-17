@@ -123,3 +123,20 @@ video {
   width: 100%;
   height: 100%;
 }
+
+.main__benefits--title {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.main__benefits--list {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+.main__benefits--list strong {
+  font-weight: 700;
+}
