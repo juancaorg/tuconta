@@ -127,6 +127,7 @@ video {
 
 .main__benefits--title {
   margin: 0 1.5rem;
+  color: var(--clr-modal-black);
   font-weight: 700;
   font-size: 1.5rem;
 }
