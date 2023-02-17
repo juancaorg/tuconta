@@ -135,6 +135,7 @@ video {
   display: flex;
   flex-direction: column;
   row-gap: 1rem;
+  list-style-image: url("./assets/beneficios-icon.svg");
 }
 
 .main__benefits--list strong {
