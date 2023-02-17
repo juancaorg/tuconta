@@ -210,3 +210,9 @@ video {
 .main__cta--schedule {
   background-color: var(--clr-blue);
 }
+
+@media screen and (min-width: 768px) {
+  .header__logo img {
+    width: 25rem;
+  }
+}
