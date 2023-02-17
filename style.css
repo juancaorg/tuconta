@@ -150,11 +150,9 @@ video {
   background-color: var(--clr-blue);
   color: white;
   padding: 2rem 4rem;
-}
-
-.main__steps div:nth-child(2) {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 3rem;
 }
 
 .main__step {
@@ -228,6 +226,10 @@ video {
   .main__cards {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .main__steps {
+    row-gap: 5rem;
   }
 
   .main__info {
