@@ -261,4 +261,10 @@ video {
   .main__card {
     padding: 2rem 3rem;
   }
+
+  .main__benefits {
+    display: flex;
+    flex-direction: row;
+    column-gap: 2rem;
+  }
 }
