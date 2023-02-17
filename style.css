@@ -20,6 +20,7 @@
   --clr-gray: #4a4a4a;
   --clr-blue: #3358cb;
   --clr-green: #8ed131;
+  --clr-glow-yellow: #e0ff40;
   /* Modal colors. */
   --clr-modal-black: #000000;
   --clr-modal-title-blue: #0a8bbc;
@@ -140,4 +141,35 @@ video {
 
 .main__benefits--list strong {
   font-weight: 700;
+}
+
+.main__steps {
+  background-color: var(--clr-blue);
+  color: white;
+  padding: 2rem 4rem;
+}
+
+.main__steps div:nth-child(2) {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.main__step {
+  line-height: 1.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main__step>img {
+  width: 100px;
+  margin-bottom: 1rem;
+}
+
+.main__step>h3 {
+  color: var(--clr-glow-yellow);
+  font-weight: 700;
+  font-size: 1.25rem;
+  text-transform: uppercase;
 }
