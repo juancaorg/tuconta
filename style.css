@@ -215,4 +215,13 @@ video {
   .header__logo img {
     width: 25rem;
   }
+
+  .main {
+    max-width: 690px;
+  }
+
+  .main__cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
