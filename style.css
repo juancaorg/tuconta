@@ -203,6 +203,11 @@ video {
   transition: all 150ms ease-out;
 }
 
+.main__cta>button:active {
+  transform: translateY(2px);
+  transition: all 1ms ease-out;
+}
+
 .main__cta--packages {
   background-color: var(--clr-green);
 }
