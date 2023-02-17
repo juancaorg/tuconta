@@ -16,12 +16,21 @@
 }
 
 :root {
+  /* Main colors. */
+  --clr-gray: #4a4a4a;
+  --clr-blue: #3358cb;
+  --clr-green: #8ed131;
+  /* Modal colors. */
+  --clr-modal-black: #000000;
+  --clr-modal-title-blue: #0a8bbc;
+  --clr-modal-background-blue: #d8ecf3;
   --ff-primary: "Asap", sans-serif;
 }
 
 body {
   min-height: 100vh;
   font-family: var(--ff-primary);
+  color: var(--clr-gray);
 }
 
 img,
