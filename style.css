@@ -52,7 +52,7 @@ video {
 
 .header {
   max-width: 95%;
-  margin-top: 1rem;
+  margin-top: 2rem;
   text-align: center;
   display: flex;
   flex-direction: column;
