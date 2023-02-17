@@ -112,9 +112,14 @@ video {
 
 .main__benefits--video {
   position: relative;
-  padding-bottom: 56.25%;
+  overflow: hidden;
   width: 100%;
-  height: 0;
+}
+
+.main__benefits--video::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
 }
 
 .main__benefits--video iframe {
