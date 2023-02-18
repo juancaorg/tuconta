@@ -285,4 +285,23 @@ video {
   .main__step {
     max-width: 200px;
   }
+
+  .main__cta {
+    max-width: 1080px;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 1rem;
+  }
+
+  .main__cta>button {
+    padding: 0.75rem;
+  }
+
+  .main__cta--packages {
+    width: 50%;
+  }
+
+  .main__cta--schedule {
+    width: 50%;
+  }
 }
