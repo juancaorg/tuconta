@@ -272,5 +272,6 @@ video {
     display: flex;
     flex-direction: row;
     column-gap: 2rem;
+    margin-bottom: 2rem;
   }
 }
