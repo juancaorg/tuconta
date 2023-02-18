@@ -232,6 +232,7 @@ video {
   .main__cards {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    place-items: center;
   }
 
   .main__steps {
