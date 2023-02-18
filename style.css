@@ -239,13 +239,14 @@ video {
   }
 
   .main__info {
-    margin-left: 4rem;
-    margin-right: 4rem;
+    max-width: 460px;
+    margin: 2rem auto;
   }
 
   .main__cta {
-    margin-left: 4rem;
-    margin-right: 4rem;
+    max-width: 460px;
+    margin: auto;
+    margin-bottom: 2rem;
   }
 }
 
