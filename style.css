@@ -260,6 +260,26 @@ video {
 
 .main__price--mov {
   font-size: 0.9375rem;
+  margin-bottom: 1rem;
+}
+
+.main__price--cta {
+  border: 0;
+  background-color: var(--clr-modal-title-blue);
+  border-radius: 2rem;
+  color: white;
+  padding: 0.5rem 2rem;
+}
+
+.main__price--cta:hover {
+  cursor: pointer;
+  background-color: var(--clr-blue);
+  transition: all 10ms ease-out;
+}
+
+.main__price--cta:active {
+  transform: translateY(2px);
+  transition: all 10ms ease-out;
 }
 
 .main__backdrop {
