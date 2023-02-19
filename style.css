@@ -258,6 +258,10 @@ video {
   font-size: 2.25rem;
 }
 
+.main__price--mov {
+  font-size: 0.9375rem;
+}
+
 .main__backdrop {
   position: fixed;
   width: 100%;
