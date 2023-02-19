@@ -227,6 +227,14 @@ video {
   padding: 1rem;
   top: 5vh;
   z-index: 2;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+.main__price {
+  background-color: var(--clr-modal-background-blue);
+  border-radius: 0.5rem;
 }
 
 .main__backdrop {
