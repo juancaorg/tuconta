@@ -203,7 +203,7 @@ video {
 .main__cta>button:hover {
   cursor: pointer;
   background-color: var(--clr-modal-title-blue);
-  transition: all 150ms ease-out;
+  transition: all 50ms ease-out;
 }
 
 .main__cta>button:active {
