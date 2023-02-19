@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 /*
  * Usar un box-sizing model más intuitivo.
@@ -25,7 +25,7 @@
   --clr-modal-black: #000000;
   --clr-modal-title-blue: #0a8bbc;
   --clr-modal-background-blue: #d8ecf3;
-  --ff-primary: "Asap", sans-serif;
+  --ff-primary: "Ubuntu", sans-serif;
 }
 
 body {
