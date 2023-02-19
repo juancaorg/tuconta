@@ -282,6 +282,15 @@ video {
   transition: all 10ms ease-out;
 }
 
+.main__price--select {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  color: var(--clr-modal-black);
+  font-weight: 700;
+  line-height: 1.5rem;
+  padding: 0 0.5rem;
+}
+
 .main__backdrop {
   position: fixed;
   width: 100%;
