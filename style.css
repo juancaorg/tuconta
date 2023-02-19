@@ -244,7 +244,18 @@ video {
   color: var(--clr-modal-title-blue);
   font-weight: 700;
   font-size: 1.5rem;
-  padding: 0.5rem;
+  padding-bottom: 0.75rem;
+}
+
+.main__price--number {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--clr-modal-black);
+}
+
+.main__price--number>strong {
+  font-weight: 700;
+  font-size: 2.25rem;
 }
 
 .main__backdrop {
