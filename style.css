@@ -340,6 +340,14 @@ video {
     margin: auto;
     margin-bottom: 2rem;
   }
+
+  .main__modal {
+    width: min(100%, 690px);
+    top: 25vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
 }
 
 @media screen and (min-width: 1270px) {
