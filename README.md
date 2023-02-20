@@ -14,7 +14,24 @@ Se requiere generar el `html` de la siguiente pantalla y que cumpla con los sigu
 ## Vista previa de la página
 
 ![](./design/tuconta-preview.png)
+_Vista previa de tu Conta_
+
+![](./design/tuconta-mobile.png)
+_Vista previa de tu Conta (móvil)_
+
+![](./design/tuconta-tablet.png)
+_Vista previa de tu Conta (tablet)_
+
+![](./design/tuconta-desktop.png)
+_Vista previa de tu Conta (escritorio)_
 
 ## Vista previa del modal (ver paquetes)
 
-![](./design/modal-preview.png)
+![](./design/modal-mobile.png)
+_Vista previa del modal (móvil)_
+
+![](./design/modal-tablet.png)
+_Vista previa del modal (tablet)_
+
+![](./design/modal-desktop.png)
+_Vista previa del modal (escritorio)_
